@@ -6,5 +6,9 @@
   "category": "Website",
   "tech": "JavaScript",
   "modalText": "This project was a part of Jonas Schmedtmann's Udemy course. The design is his but I developed the page together with him for learning purposes.",
-  "num": 8
+  "num": 8,
+    "type": "desktop",
+    "className": "bj",
+    "gitHub": "https://github.com/Ryiguchi/blackjack-game",
+    "link": "https://ryiguchi.github.io/blackjack-game"
 }
