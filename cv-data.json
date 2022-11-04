@@ -1,0 +1,9 @@
+{
+  "img": "img/bank.png",
+  "title": "Bankist Website",
+  "titleText": "My first website with JavaScript that helped me learn essential development skills.",
+  "modalTitle": "Bankist",
+  "category": "Website",
+  "tech": "JavaScript",
+  "modalText": "This is my first attempt at a game when I had very little knowledge of JavaScript. The game needs some design and responsivness work but the logic is sound."
+}

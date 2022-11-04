@@ -324,7 +324,6 @@ const slider = function () {
 
   // Add arrow key functionality
   document.addEventListener('keydown', function (e) {
-    console.log(e);
     if (e.key === 'ArrowLeft') prevSlide();
     // can use short circuiting
     e.key === 'ArrowRight' && nextSlide();
